@@ -1,0 +1,58 @@
+{
+    "sidebar": {
+        "automation": "Automation",
+        "gallery": "Gallery & Previews",
+        "templates": "Templates"
+    },
+    "automation": {
+        "title": "High-Efficiency Production",
+        "subtitle": "Bridge raw fixture data with complex PSD templates.",
+        "launch_batch": "GENERATE ASSETS",
+        "placeholder": "Format: Team A vs Team B 1.80 3.20 4.00 | Date",
+        "process": "THE ENGINE",
+        "active_template": "Active Template",
+        "source_files": "SOURCE FILES",
+        "template_box": "PSD Template (Smart Objects)",
+        "data_box": "Fixture Data (Live Flow)",
+        "engine_center": "AUTOMATION HUB",
+        "terminal_ready": "ENGINE STATUS: READY FOR INPUT...",
+        "outputs": "READY ASSETS (PNG)"
+    },
+    "tracker": {
+        "title": "Live Fixture Tracker",
+        "refresh": "Refresh",
+        "add_batch": "Add to batch"
+    },
+    "gallery": {
+        "title": "Latest Rendered Assets",
+        "subtitle": "Manage and view your generated PSD outputs.",
+        "refresh": "Refresh",
+        "view_full": "View Full",
+        "confirm_delete": "Are you sure you want to delete this asset permanently?",
+        "no_assets": "No generated assets found yet."
+    },
+    "templates": {
+        "title": "Design Templates",
+        "subtitle": "Choose which Photoshop PSD template to use for your automation.",
+        "standard": "Standard Football",
+        "standard_desc": "Default layout with full odds and logos. Best for general match previews.",
+        "minimal": "Minimal Football",
+        "minimal_desc": "Condensed layout for social media stories without complex odds.",
+        "basketball": "Basketball Match",
+        "basketball_desc": "Specialized layout without draw (X) odds. Optimized for court sports."
+    },
+    "tutorial": {
+        "welcome": "Welcome to MatchAuto!",
+        "ps_warning": "⚠️ Your Photoshop application must be open before starting.",
+        "step1_title": "1. Select Fixtures",
+        "step1_desc": "Click on matches in the live tracker to automatically add them to your batch. Odds and time will be pre-filled.",
+        "step2_title": "2. Manual Entry",
+        "step2_desc": "You can write matches manually. Use the pipe '|' symbol to override time and date details.",
+        "step3_title": "3. Choose Templates",
+        "step3_desc": "Switch between Football and Basketball designs in the Templates tab.",
+        "step4_title": "4. Render & Photoshop",
+        "step4_desc": "Press 'Generate PSD' to trigger Photoshop. Your image will be saved in the /Mac folder. Your Photoshop application must be open before starting.",
+        "start": "Let's Go!",
+        "next": "Next"
+    }
+}

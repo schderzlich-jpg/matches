@@ -1,0 +1,58 @@
+{
+    "sidebar": {
+        "automation": "Otomasyon",
+        "gallery": "Galeri & Önizlemeler",
+        "templates": "Şablonlar"
+    },
+    "automation": {
+        "title": "Yüksek Verimli Üretim",
+        "subtitle": "Ham fikstür verilerini karmaşık PSD şablonlarıyla birleştirin.",
+        "launch_batch": "OTOMASYONU BAŞLAT",
+        "placeholder": "Format: Takım A vs Takım B 1.80 3.20 4.00 | Tarih",
+        "process": "MOTOR ÜNİTESİ",
+        "active_template": "Aktif Şablon",
+        "source_files": "KAYNAK DOSYALAR",
+        "template_box": "PSD Şablonu (Akıllı Nesneler)",
+        "data_box": "Fikstür Verisi (Canlı Akış)",
+        "engine_center": "İŞLEM MERKEZİ",
+        "terminal_ready": "MOTOR DURUMU: GİRİŞ BEKLENİYOR...",
+        "outputs": "HAZIR GÖRSELLER (PNG)"
+    },
+    "tracker": {
+        "title": "Canlı Fikstür Takibi",
+        "refresh": "Yenile",
+        "add_batch": "Batch'e Ekle"
+    },
+    "gallery": {
+        "title": "Son Oluşturulan Görseller",
+        "subtitle": "Oluşturulan PSD çıktılarınızı yönetin ve görüntüleyin.",
+        "refresh": "Yenile",
+        "view_full": "Tam Boyut",
+        "confirm_delete": "Bu görseli kalıcı olarak silmek istediğinize emin misiniz?",
+        "no_assets": "Henüz oluşturulmuş bir görsel bulunamadı."
+    },
+    "templates": {
+        "title": "Tasarım Şablonları",
+        "subtitle": "Otomasyon için kullanılacak Photoshop PSD şablonunu seçin.",
+        "standard": "Standart Futbol",
+        "standard_desc": "Tam oranlar ve logolar içeren varsayılan düzen.",
+        "minimal": "Minimal Futbol",
+        "minimal_desc": "Karmaşık oranlar içermeyen, sosyal medya için uygun düzen.",
+        "basketball": "Basketbol Maçı",
+        "basketball_desc": "Beraberlik oranı içermeyen, basketbol için optimize edilmiş düzen."
+    },
+    "tutorial": {
+        "welcome": "MatchAuto'ya Hoş Geldiniz!",
+        "ps_warning": "⚠️ Başlamadan önce Photoshop uygulamanız açık olmalıdır.",
+        "step1_title": "1. Fikstür Seçimi",
+        "step1_desc": "Alt taraftaki canlı listeden maçlara tıklayarak batch listesine otomatik ekleyebilirsiniz. Oranlar ve saat otomatik dolacaktır.",
+        "step2_title": "2. Manuel Giriş",
+        "step2_desc": "İstediğiniz maçı manuel formatta yazabilirsiniz. '|' işaretinden sonra saat ve tarih ekleyerek kontrolü ele alabilirsiniz.",
+        "step3_title": "3. Tasarım Seçimi",
+        "step3_desc": "Templates sekmesinden Futbol veya Basketbol şablonları arasında geçiş yapabilirsiniz.",
+        "step4_title": "4. Render ve Photoshop",
+        "step4_desc": "'Generate PSD' butonuna bastığınızda Photoshop otomatik açılır ve görseliniz /Mac klasörüne kaydedilir. Başlamadan önce Photoshop uygulamanız açık olmalıdır.",
+        "start": "Başlayalım!",
+        "next": "İleri"
+    }
+}
